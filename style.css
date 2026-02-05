@@ -52,6 +52,7 @@ nav .menu {
     border-radius: 4px;
 }
 
+
 .btn:hover {
     color: white;
     transition: .3s;
@@ -97,6 +98,12 @@ nav a {
     margin-bottom: 16px;
 
 }
+.now-open-btn:hover{
+    color: white;
+    transition: .3s;
+    background-color: #469165;
+
+}
 
 .banner-container h1 {
     font-size: 72px;
@@ -137,6 +144,12 @@ nav a {
     color: #FFFFFF;
 }
 
+.primary-btn:hover {
+    color: white;
+    transition: .3s;
+    background-color: black;
+}
+
 .banner-container .secondary-btn {
     padding: 16px;
     border: none;
@@ -144,6 +157,12 @@ nav a {
     border: 1px solid #FFFFFF;
     border-radius: 4px;
     color: #FFFFFF;
+}
+
+.secondary-btn:hover {
+    color: black;
+    transition: .3s;
+    background-color: white;
 }
 
 
@@ -397,7 +416,7 @@ footer hr {
     margin-bottom: 30px;
 }
 
-footer .reserved {
+footer .copyright {
     text-align: center;
     font-size: 16px;
     color: #FAFAFA;
