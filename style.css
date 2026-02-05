@@ -77,6 +77,7 @@ nav a {
     background-position: center;
     background-size: cover;
     margin-left: 0;
+
 }
 
 .banner-container {
@@ -233,3 +234,62 @@ nav a {
 .brain-content .circle-green {
     color: #30B868;
 }
+
+
+/* Early Access Section related Styles */
+
+#early-access-section {
+    margin: 0 120px 120px 120px;
+}
+
+.early-access-container {
+
+    max-width: 1360px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #F7F6F2;
+    padding: 80px 40px;
+    gap: 24px;
+    margin: 0 auto;
+    text-align: center;
+    border: none;
+    border-radius: 12px;
+
+}
+
+.access-heading,
+.explore-message {
+    margin: 0 auto;
+    max-width: 1280px;
+}
+
+.access-heading h1 {
+    font-size: 40px;
+    font-weight: 900;
+    color: 001931;
+    margin-bottom: 16px;
+}
+
+.access-heading p {
+    font-size: 16px;
+    color: #627382;
+    line-height: 24px;
+}
+
+.explore-message .btn {
+    max-width: 193px;
+    margin-bottom: 16px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #FFFFFF;
+    margin-bottom: 16px;
+}
+
+.explore-message h6 {
+    font-size: 16px;
+    line-height: 20px;
+    color: #627382;
+}
+
+
