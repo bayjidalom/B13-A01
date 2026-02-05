@@ -132,6 +132,7 @@ nav a {
     padding: 55px 24px;
     max-width: 322px;
     height: 300px;
+    background-color: #FFFFFF;
     /* border: 1px solid black; */
     align-content: center;
     border-radius: 8px;
@@ -165,4 +166,70 @@ nav a {
 .card-description {
     font-size: 16px;
     line-height: 20px;
+}
+
+
+/* Brain Section Related Styles  */
+
+#brain-section {
+    margin: 120px;
+}
+
+#brain-section .brain-container {
+    max-width: 1360px;
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    align-items: center;
+    margin: 0 auto;
+
+}
+
+#brain-section .brain-image img {
+    max-width: 600px;
+    height: 600px;
+
+}
+
+.brain-content {
+    max-width: 700px;
+}
+
+.brain-content h5 {
+    font-size: 16px;
+    font-weight: 500;
+    color: #469165;
+    line-height: 20px;
+    margin-bottom: 16px;
+
+}
+
+.brain-content h1 {
+    font-size: 48px;
+    font-weight: 900;
+    color: #001931;
+    margin-bottom: 16px;
+
+}
+
+.brain-content p {
+    font-size: 16px;
+    line-height: 20px;
+    color: #627382;
+    margin-bottom: 40px;
+}
+
+
+
+.brain-content ul li {
+    list-style-type: none;
+    margin-bottom: 16px;
+    font-size: 16px;
+    line-height: 20px;
+    color: #001931;
+
+}
+
+.brain-content .circle-green {
+    color: #30B868;
 }
