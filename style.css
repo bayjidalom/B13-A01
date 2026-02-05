@@ -103,7 +103,7 @@ nav a {
 .now-open-btn:hover{
     color: white;
     transition: .3s;
-    background-color: #469165;
+    background-color: black;
 
 }
 
