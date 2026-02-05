@@ -50,7 +50,8 @@ nav .menu {
     border: none;
     border-radius: 4px;
 }
-.fa-circle{
+
+.fa-circle {
     color: #469165b0;
 }
 
@@ -90,7 +91,7 @@ nav a {
 }
 
 .banner-container .now-open-btn {
-    max-width: 219px;
+    width: 229px;
     font-size: 16px;
     padding: 12px;
     color: #469165;
@@ -100,7 +101,8 @@ nav a {
     margin-bottom: 16px;
 
 }
-.now-open-btn:hover{
+
+.now-open-btn:hover {
     color: white;
     transition: .3s;
     background-color: black;
