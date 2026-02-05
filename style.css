@@ -293,3 +293,50 @@ nav a {
 }
 
 
+/* Footer related Styles */
+
+footer {
+    background-color: #001931;
+}
+
+footer .footer-container {
+    max-width: 1360px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    padding: 120px 120px 30px;
+}
+
+footer .footer-container .social {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 80px;
+}
+
+.footer-social h4 {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 28px;
+    color: #FFFFFF;
+    margin-bottom: 16px;
+
+}
+
+.footer-icons a {
+    margin-right: 16px;
+    color: white;
+
+}
+
+footer hr {
+    color: rgba(229, 231, 235, 0.137);
+    margin-bottom: 30px;
+}
+
+footer .reserved {
+    text-align: center;
+    font-size: 16px;
+    color: #FAFAFA;
+    line-height: 24px;
+}
