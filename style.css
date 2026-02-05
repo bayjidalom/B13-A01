@@ -125,6 +125,7 @@ nav a {
 }
 
 .banner-container p {
+
     font-size: 18px;
     line-height: 24px;
     color: #FFFFFF;
@@ -205,7 +206,7 @@ nav a {
     font-size: 48px;
     font-weight: 900;
     margin-bottom: 16px;
-    padding-top: 15px;
+    padding-top: 30px;
 }
 
 .card-heading p {
