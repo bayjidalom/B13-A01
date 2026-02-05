@@ -16,7 +16,6 @@ header {
     align-items: center;
     text-align: center;
     justify-content: space-between;
-
 }
 
 nav {
@@ -50,6 +49,9 @@ nav .menu {
     padding: 12px 16px;
     border: none;
     border-radius: 4px;
+}
+.fa-circle{
+    color: #469165b0;
 }
 
 
